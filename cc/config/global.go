@@ -76,7 +76,7 @@ var (
 
 	// prebuilts/clang default settings.
 	ClangDefaultBase         = "prebuilts/clang/host"
-	ClangDefaultVersion      = "clang-copperhead"
+	ClangDefaultVersion      = "clang-canebrake"
 	ClangDefaultShortVersion = "5.0"
 )
 
